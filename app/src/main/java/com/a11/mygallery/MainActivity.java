@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         RecyclerView gallery = (RecyclerView) findViewById(R.id.rv_gallery_list);
+
         ArrayList<Integer> imageList = initImages();
 
         GridLayoutManager layoutManager = new GridLayoutManager(this, 2);
