@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyGallery</string>
+    <string name="image_descriptor">Descriptor for iv of gallery</string>
+</resources>
